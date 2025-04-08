@@ -5,7 +5,7 @@ ubmission for Osdag Screening Task – Includes PyPlot visualization for Bending
 
 🏗️ Task 2: PythonOCC-based CAD model of a Laced Compound Column consisting of two I-sections connected by end battens and diagonal lacing members.
 
-📹 A video demonstration showcasing the working of both tasks.
+📹 A video demonstration showcasing the working of both tasks. https://youtu.be/i5kbBBersVI
 
 📑 PDF documentation explaining the code and project structure.
 
