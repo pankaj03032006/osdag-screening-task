@@ -1,5 +1,5 @@
 # osdag-screening-task
-ubmission for Osdag Screening Task – Includes PyPlot visualization for Bending Moment and Shear Force Diagrams from Excel data, and a PythonOCC CAD model of a Laced Compound Column. This repository contains:
+Submission for Osdag Screening Task – Includes PyPlot visualization for Bending Moment and Shear Force Diagrams from Excel data, and a PythonOCC CAD model of a Laced Compound Column. This repository contains:
 
 📊 Task 1: Python script using Matplotlib (PyPlot) to read structural data from an Excel sheet and generate SFD and BMD graphs.
 
